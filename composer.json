@@ -1,0 +1,26 @@
+{
+  "name": "kasperhartwich/drive-now",
+  "description": "Library for talking with the Drive Now API.",
+  "type": "library",
+  "keywords": ["drivenow", "drive-now", "carsharing"],
+  "homepage": "https://github.com/kasperhartwich/drive-now/",
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Kasper Hartwich",
+      "email": "kasperhartwich@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "DriveNow\\": "src/",
+      "Tests\\": "tests/"
+    }
+  },
+  "require": {
+    "ext-curl": "*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^6.0"
+  }
+}
