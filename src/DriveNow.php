@@ -64,7 +64,7 @@ class DriveNow
     {
         $cars = [];
         foreach ($this->cache['cars']['items'] as $item) {
-            $cars[] = new Car($item);
+            $cars[$item['id']] = new Car($item);
         }
         return $cars;
     }
