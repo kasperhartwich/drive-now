@@ -11,9 +11,9 @@ class DriveNowTest extends TestCase
         $this->assertGreaterThan(300, $this->drivenow->countCars());
     }
 
-    public function testGetCountries()
+    public function testGetCities()
     {
-        $this->assertEquals(11, count($this->drivenow->getCountries()));
+        $this->assertEquals(11, count($this->drivenow->getCities()));
     }
 
     public function testCarsWithLowFuel()

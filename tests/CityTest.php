@@ -10,7 +10,6 @@ class CityTest extends TestCase
         $cities = $this->drivenow->getCities();
         /** @var City $city */
         $city = array_shift($cities);
-        var_dump($city);
         $this->assertEquals('Germany', $city->countryLabel);
     }
 }
