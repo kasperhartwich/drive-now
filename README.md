@@ -1,4 +1,4 @@
-Drive Now [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/kasperhartwich/drive-now/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/kasperhartwich/drive-now/?branch=master) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/kasperhartwich/drive-now/master/LICENSE.txt)
+Drive Now [![Build Status](https://travis-ci.org/kasperhartwich/quickdns.svg?branch=master)](https://travis-ci.org/kasperhartwich/quickdns) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/kasperhartwich/drive-now/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/kasperhartwich/drive-now/?branch=master) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/kasperhartwich/drive-now/master/LICENSE.txt)
 =========
 
 This library is for interacting with the drive-now.com service.
