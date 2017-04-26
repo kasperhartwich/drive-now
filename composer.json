@@ -1,10 +1,10 @@
 {
   "name": "kasperhartwich/drive-now",
-  "description": "Library for talking with the Drive Now API.",
+  "description": "Library for integration with the Drive Now API.",
   "type": "library",
   "keywords": ["drivenow", "drive-now", "carsharing"],
   "homepage": "https://github.com/kasperhartwich/drive-now/",
-  "license": "BSD-3-Clause",
+  "license": "MIT",
   "authors": [
     {
       "name": "Kasper Hartwich",
