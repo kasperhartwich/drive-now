@@ -2,7 +2,7 @@
   "name": "kasperhartwich/drive-now",
   "description": "Library for integration with the Drive Now API.",
   "type": "library",
-  "keywords": ["drivenow", "drive-now", "carsharing"],
+  "keywords": ["drivenow", "drive-now", "drive", "now", "carsharing"],
   "homepage": "https://github.com/kasperhartwich/drive-now/",
   "license": "MIT",
   "authors": [
